@@ -1,5 +1,5 @@
 # jeetchat
-![jeetchat-faster.gif](./jeetchat-faster.gif)
+![jeetchat-demo.gif](./jeetchat-demo.gif)
 ### Starting the application
 Requirements:
 ```
